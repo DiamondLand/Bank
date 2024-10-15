@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Date;
 
+// ДОПУСТИМ ТУТ ИЗМЕНЕНИЯ КОД
+
 class Transaction {
     private Date date;
     private char type; // '+' for deposit, '-' for withdrawal
